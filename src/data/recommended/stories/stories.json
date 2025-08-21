@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://steven-giesel.com/blogPost/5d88d808-03ac-431a-82fa-756b59b38a7d",
+    "title": "Two more LINQ extensions in dotnet 10",
+    "description": "The preview 6 of dotnet 10 brings two more functions: InfiniteSequence and Sequence.",
+    "date": "2025-08-0T14:59:49Z",
+    "tags": [
+      "dotnet", "linq"
+    ]
+  },
+  {
     "url": "https://duendesoftware.com/blog/20250812-filtering-exception-messages-with-serilog-expressions",
     "title": "Filtering Exception Messages with Serilog Expressions",
     "description": "",
