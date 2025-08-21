@@ -1,9 +1,18 @@
 [
   {
+    "url": "https://bartwullems.blogspot.com/2025/08/view-your-installed-mcp-servers-in.html",
+    "title": "View your installed MCP servers in VSCode",
+    "description": "Managing Model Context Protocol (MCP) servers in VS Code has become significantly easier with the dedicated management interface in the Exte...",
+    "date": "2025-08-21T14:59:49Z",
+    "tags": [
+      "vscode"
+    ]
+  },
+  {
     "url": "https://steven-giesel.com/blogPost/5d88d808-03ac-431a-82fa-756b59b38a7d",
     "title": "Two more LINQ extensions in dotnet 10",
     "description": "The preview 6 of dotnet 10 brings two more functions: InfiniteSequence and Sequence.",
-    "date": "2025-08-0T14:59:49Z",
+    "date": "2025-08-20T14:59:49Z",
     "tags": [
       "dotnet", "linq"
     ]
