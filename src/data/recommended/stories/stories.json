@@ -1,5 +1,32 @@
 [
   {
+    "url": "https://www.infoq.com/news/2025/05/allegro-code-migrations-scale/",
+    "title": "How Allegro Does Automated Code Migrations for over 2000 Microservices - InfoQ",
+    "description": "Allegro shared the details of the process it uses to manage code migrations at scale. The company combined GitHub’s Dependabot and OpenRewrite projects into a custom solution that helps developers per",
+    "date": "2025-09-01T14:59:49Z",
+    "tags": [
+      "github"
+    ]
+  },
+  {
+    "url": "https://analyticsindiamag.com/global-tech/microsoft-just-showed-us-why-vs-code-still-rules/",
+    "title": "Microsoft Just Showed Us Why VS Code Still Rules",
+    "description": "Just as OpenAI was going all in on the developer ecosystem, with the acquisition of Windsurf and the launch of Codex, Microsoft has entered the chat too. The tech giant announced that it is going to make GitHub Copilot in VS Code open-source.",
+    "date": "2025-09-01T13:59:49Z",
+    "tags": [
+      "vscode"
+    ]
+  },
+  {
+    "url": "https://dev.to/teamcamp/daily-logs-for-devs-how-a-5-minute-habit-can-10x-your-weekly-output-4peb",
+    "title": "Daily Logs for Devs: How a 5-Minute Habit Can 10x Your Weekly Output - DEV Community",
+    "description": "Think of it as a fitness tracker—for your brain and your codebase.",
+    "date": "2025-09-01T12:59:49Z",
+    "tags": [
+      "documentation"
+    ]
+  },
+  {
     "url": "https://bartwullems.blogspot.com/2025/08/view-your-installed-mcp-servers-in.html",
     "title": "View your installed MCP servers in VSCode",
     "description": "Managing Model Context Protocol (MCP) servers in VS Code has become significantly easier with the dedicated management interface in the Exte...",
