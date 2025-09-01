@@ -1,5 +1,32 @@
 [
   {
+    "url": "https://www.youtube.com/watch?v=YTWe7Nf4sfE",
+    "title": "What's new in JetBrains Writerside for tech writing?",
+    "tags": [
+      "jetbrains"
+    ],
+    "date": "2025-09-01T09:17:58Z",
+    "type": "youtube"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=545Nj0_BuzA",
+    "title": "Real-world examples on optimizing .NET performance - Stefán Jökull Sigurðarson - NDC Oslo 2023",
+    "tags": [
+      "dotnet"
+    ],
+    "date": "2025-09-01T08:17:58Z",
+    "type": "youtube"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kNQ_eC8tRmA",
+    "title": "Our Favorite NEW Visual Studio Features of 2024",
+    "tags": [
+      "visual-studio"
+    ],
+    "date": "2025-09-01T07:17:58Z",
+    "type": "youtube"
+  },
+  {
     "url": "https://www.youtube.com/watch?v=pGgsFW7kDKI",
     "title": "Performance tricks I learned from contributing to open source .NET packages - Daniel Marbach",
     "tags": [
