@@ -1,5 +1,32 @@
 [
   {
+    "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/",
+    "title": "Visual Studio 2026 Insiders is here! - Visual Studio Blog",
+    "description": "Visual Studio 2026 Insiders is here with AI integration, blazing fast performance, Fluent UI design, and a new Insiders Channel for early features.",
+    "date": "2025-09-11T15:59:49Z",
+    "tags": [
+      "visual-studio"
+    ]
+  },
+  {
+    "url": "https://techcommunity.microsoft.com/blog/microsoftteamsblog/from-threads-to-workflows-microsoft-teams-features-that-boost-everyone%E2%80%99s-product/4430879",
+    "title": "From Threads to Workflows: Microsoft Teams Features That Boost Everyone’s Productivity | Microsoft Community Hub",
+    "description": "Organizations are looking to achieve more—and need tools that help them work faster, simpler, and smarter. Guided by customer feedback, Microsoft Teams...",
+    "date": "2025-09-11T14:59:49Z",
+    "tags": [
+      "microsoft-teams"
+    ]
+  },
+  {
+    "url": "https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html",
+    "title": "20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack",
+    "description": "20 npm packages with 2B weekly downloads compromised after maintainer phishing led to crypto-stealing malware.",
+    "date": "2025-09-11T13:59:49Z",
+    "tags": [
+      "security"
+    ]
+  },
+  {
     "url": "https://www.infoq.com/news/2025/05/allegro-code-migrations-scale/",
     "title": "How Allegro Does Automated Code Migrations for over 2000 Microservices - InfoQ",
     "description": "Allegro shared the details of the process it uses to manage code migrations at scale. The company combined GitHub’s Dependabot and OpenRewrite projects into a custom solution that helps developers per",
